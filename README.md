@@ -7,6 +7,7 @@ Repo ini berisi catatan dan project kecil yang saya kerjakan selama perjalanan b
 
 ## 📚 Daftar Materi
 1. **Hello React** → Menjalankan React pertama kali.
+2. **Simple To-Do List**
 
 ---
 
